@@ -9,7 +9,7 @@
 
   <h1>SBeTjQDTtemplate Home Page</h1>
 
-  <img src="./image/SBeTjQDTtemplate.png" />
+  <img src="./static/SBeTjQDTtemplate.png" />
 
   <br/>
 

@@ -60,7 +60,7 @@ public class SBeTjQDTController {
         record.numId = 67890;
         record.strId = "S67890";
         record.date = (int)(ms / (3600 * 24000)) - 10;
-        record.dateTimeMs = ms;
+        record.dateTimeMs = ms - 1000000;
         record.realNum = 9.88;
         record.enumData = EnumData.ENUM_TWO;
 
